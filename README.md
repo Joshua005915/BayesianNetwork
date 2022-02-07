@@ -3,7 +3,7 @@
 * 全概率公式
 
 
-![1](http://latex.codecogs.com/svg.latex?\sum)
+![1](http://latex.codecogs.com/svg.latex?P(X)=\sum)
 * 贝叶斯公式
 * 概率图基本类型
 ## 1.1 模型构建

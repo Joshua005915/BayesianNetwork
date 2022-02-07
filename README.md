@@ -1,6 +1,7 @@
 # 1 隐马尔科夫模型基础
 ## 1.0 基础知识
 * 全概率公式
+![1] (http://latex.codecogs.com/svg.latex?\int_a^bf(x)\dx)
 * 贝叶斯公式
 * 概率图基本类型
 ## 1.1 模型构建
